@@ -47,6 +47,7 @@ Session.vim
 # env
 env.yml
 .env
+.env.local
 
 # Jetbrains IDEs
 .idea
